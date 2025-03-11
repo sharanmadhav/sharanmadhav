@@ -14,6 +14,10 @@ A passionate Full-Stack Developer at Zoho,Specialize in building and maintaining
 [![Medium](https://img.shields.io/badge/Medium-0ACF83?logo=medium)](https://medium.com/@sharanmadhavd)
 [![Peerlist](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto)](https://dev.to/madhav_baby_giraffe)
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanmadhav&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
 ## 💻 Tech Stack
 
 ### Frontend Development
