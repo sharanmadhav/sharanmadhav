@@ -1,80 +1,117 @@
-
-# 👋 Hi there, I'm [Sharan madhav]
-
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=08D440&width=435&lines=Transforming+ideas+into+reality." alt="Transforming ideas into reality." /></a>
+
+  <!-- Avatar -->
+  <img src="https://github.com/sharanmadhav.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 3px solid #08D440;">
+
+  <!-- Name & Typing SVG Animation -->
+  <h1>Sharan Madhav</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=08D440&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+scalable+systems+in+production;Owning+services+that+handle+real+money" alt="Typing SVG" />
+  </a>
+
+  <!-- Social Links -->
+  <p>
+    <a href="https://www.linkedin.com/in/sharanmadhav/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/sharanmadhav"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+    <a href="https://medium.com/@sharanmadhavd"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white" alt="Medium"></a>
+    <a href="mailto:contact@sharanmadhav07@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  </p>
+
 </div>
 
-## 🚀 About Me
-A passionate Full-Stack Developer at Zoho,Specialize in building and maintaining cloud-based applications using mordern technologies.
+---
 
+## 🖥️ `./init_profile.sh`
 
-[![GitHub followers](https://img.shields.io/badge/Madhav-BBDDE5?logo=refinedgithub)](https://github.com/sharanmadhav)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sharanmadhav/)
-[![Medium](https://img.shields.io/badge/Medium-0ACF83?logo=medium)](https://medium.com/@sharanmadhavd)
-[![Peerlist](https://img.shields.io/badge/dev.to-0A0A0A?logo=devdotto)](https://dev.to/madhav_baby_giraffe)
+I'm a **Backend Engineer with 3.5+ years of experience**. I specialize in building **production-grade Java & Spring Boot microservices** that handle financial workflows and real user data.
 
+```bash
+$ whoami
+> Name: Sharan Madhav
+> Role: Backend Engineer @ athenahealth
+> Focus: Scalable Systems, Cloud Native, Security
+> Location: Chennai, India (Remote-friendly)
 
-## 💻 Tech Stack
+$ cat philosophy.txt
+1. Ownership over code.
+2. Systems that survive production.
+3. Clean architecture & Performance.
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Backend
+`Java 11+` `Spring Boot` `Microservices` `REST APIs` `OAuth/JWT`
+
+### Data & Infrastructure
+`MySQL` `MongoDB` `Redis` `AWS (EC2, RDS, S3)` `Docker` `Git/CI-CD`
+
+---
+
+## 🏗️ Production Experience
+
+<table>
+  <tr>
+    <td width="20%">
+      <b>Jul 2025 – Present</b><br>
+      <span style="color: #08D440;">● Current</span>
+    </td>
+    <td>
+      <b>Backend Engineer</b> @ <a href="https://www.athenahealth.com"><b>athenahealth</b></a>
+      <ul>
+        <li>🔄 <b>Migration:</b> Transitioned legacy monoliths to Spring Boot microservices, enhancing scalability for financial workflows.</li>
+        <li>⚡ <b>Automation:</b> Designed recurring remittance pipelines, reducing manual operational effort by ~40%.</li>
+        <li>🛡️ <b>Ownership:</b> Managed production performance for complex file processing systems handling critical business data.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Jun 2022 – Jul 2025</b><br>
+      <span style="color: #888;">● Past</span>
+    </td>
+    <td>
+      <b>Software Engineer (Backend)</b> @ <a href="https://www.zoho.com"><b>Zoho Corporation</b></a>
+      <ul>
+        <li>📈 <b>Scale:</b> Architected backend for Zoho Survey subscription plans supporting 200+ enterprise recurring customers.</li>
+        <li>🚀 <b>APIs:</b> Built scalable REST APIs supporting 1,000+ active mobile users.</li>
+        <li>🔍 <b>Performance:</b> Optimized Reports module queries, improving backend performance by ~40%.</li>
+        <li>🔒 <b>Security:</b> Implemented SEBI-compliant payload encryption for premium enterprise data.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Featured Projects
+
+### 💳 PaymentTracker
+*Java • Spring Boot • Microservices • Gmail OAuth • JWT*
+
+A smart expense tracking system that ingests bank transaction emails via **Gmail OAuth**, parses unstructured data, and structures it for analytics.
+*   **Features:** JWT Auth (Access/Refresh tokens), Regex-based Parsers, Budgeting Dashboards.
+*   **Tech:** Real-time sync pipelines converting email data to financial records.
+
+[![Demo](https://img.shields.io/badge/-Demo-000000?style=flat-square&logo=Google-Chrome&logoColor=white)](#) [![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=GitHub&logoColor=white)](#)
+
+---
+
+### 📊 Application Server Monitor
+*Java • React • Firebase*
+
+A system to track API latency, system health, and usage metrics with real-time dashboards.
+*   **Impact:** Identified performance bottlenecks and reduced average API response times by ~15%.
+
+[![Code](https://img.shields.io/badge/-Code-181717?style=flat-square&logo=GitHub&logoColor=white)](#)
+
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanmadhav&layout=compact&langs_count=7&theme=tokyonight"/>
+
+   *user.alive:true*
+
 </div>
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![HBS](https://img.shields.io/badge/HBS-FFC700?logo=handlebarsdotjs&logoColor=white&style=flat-square)
-![Emberjs](https://img.shields.io/badge/Ember-E04E39?logo=emberdotjs&logoColor=white&style=flat-square)
-![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
-
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![surrealdb](https://img.shields.io/badge/surrealdb-FF00A0?logo=surrealdb&logoColor=white&style=flat-square)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)
-
-### Testing & Tools
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### Mobile Development
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Android Studio](https://img.shields.io/badge/androidstudio-3DDC84?logo=androidstudio&logoColor=black&style=flat-square)
-
-
-### Other
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
-
-
-## 📫 How to reach me
-
-- 📧 Email: contact@sharanmadhav07@gmail.com
-- 💼 LinkedIn: [[Sharan Madhav](https://www.linkedin.com/in/sharanmadhav/)]
