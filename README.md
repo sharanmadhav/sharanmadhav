@@ -47,7 +47,7 @@ $ cat philosophy.txt
 `Java 11+` `Spring Boot` `Microservices` `REST APIs` `OAuth/JWT`
 
 ### Data & Infrastructure
-`MySQL` `MongoDB` `Redis` `AWS (EC2, RDS, S3)` `Docker` `Git/CI-CD`
+`MySQL` `MongoDB` `Redis` `AWS (EC2, RDS, S3)` `Docker` `Git`
 
 ---
 
